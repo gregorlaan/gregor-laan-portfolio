@@ -2,6 +2,13 @@
 
 Here are some selected projects from my repositories 
 
+## Table of Contents
+
+* [Mobile Devices Kiosk](#mobile-devices-kiosk)
+* [Estonian Password Generator](#estonian-password-generator)
+* [Tax-free Income Calculator](#tax-free-income-calculator)
+* [Web Based Radio Player](#web-based-radio-player)
+
 ## Mobile Devices Kiosk
 
 Mobile Devices Kiosk based on Fono API using AngularJS
