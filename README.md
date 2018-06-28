@@ -25,3 +25,11 @@ Estonian Tax-free Income Calculator 2018
 [Source Code](https://github.com/gregorlaan/Tax-free-Income-Calculator "Estonian Tax-free Income Calculator")
 
 [Live Preview](https://gregorlaan.github.io/Tax-free-Income-Calculator/ "Estonian Tax-free Income Calculator")
+
+## Web Based Radio Player
+
+Simple Estonian Web Based Radio Player using VueJS
+
+[Source Code](https://github.com/gregorlaan/WebBasedRadioPlayer "Estonian Web Based Radio Player")
+
+[Live Preview](https://gregorlaan.github.io/WebBasedRadioPlayer "Estonian Web Based Radio Player")
