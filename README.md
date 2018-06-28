@@ -17,3 +17,11 @@ Generate secured passwords using estonian words
 [Source Code](https://github.com/gregorlaan/EstonianPasswordGenerator "Estonian Password Generator")
 
 [Live Preview](https://gregorlaan.github.io/EstonianPasswordGenerator "Estonian Password Generator")
+
+## Tax-free Income Calculator
+
+Estonian Tax-free Income Calculator 2018
+
+[Source Code](https://github.com/gregorlaan/Tax-free-Income-Calculator "Estonian Tax-free Income Calculator")
+
+[Live Preview](https://gregorlaan.github.io/Tax-free-Income-Calculator/ "Estonian Tax-free Income Calculator")
