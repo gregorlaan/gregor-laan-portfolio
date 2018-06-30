@@ -1,6 +1,6 @@
 ---
 title: The portfolio of Gregor Laan
-layout: default
+layout: home
 ---
 
 # {{ page.title }}
