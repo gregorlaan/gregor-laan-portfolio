@@ -10,7 +10,28 @@
 </head>
 
 <body>
-    {{ content }}
+
+    <div id="sidebar">
+        <div class="contact-info">
+            <img class="profile-pic" src="https://avatars1.githubusercontent.com/u/26455497?s=460&v=4" title="Gregor Laan" alt="Gregor Laan">
+            <h2 class="name">Gregor Laan</h2>
+        </div>
+        <nav class="main-menu">
+            <ul>
+                <li class="active">
+                    <a href="/">Home</a>
+                </li>
+                <li>
+                    <a href="#about">About</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="content">
+        {{ content }}
+    </div>
+
 </body>
 
 </html>

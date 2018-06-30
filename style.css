@@ -5,4 +5,110 @@ html, body {
 
 html {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    background-color: whitesmoke; 
+}
+
+:root {
+    --blue: #2196f3;
+    --dark-blue: #002c54;
+    --light-gray: rgba(0, 44, 84, .22);
+}
+
+a {
+    text-decoration: none;
+}
+
+ul.table-of-contents {
+    list-style: none;
+    padding: 0 0 0 10px;
+}
+
+ul.table-of-contents > li {
+    line-height: 1.5;
+}
+
+ul.table-of-contents > li:before {
+    display: inline-block;
+    content: "";
+    height: 10px;
+    width: 10px;
+    background: transparent;
+    border: 3px solid var(--blue);
+    box-sizing: border-box;
+    border-radius: 100%;
+    margin-right: 10px;
+}
+
+#sidebar {
+    width: 260px;
+    position: fixed;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--blue);
+    color: whitesmoke;
+    box-shadow: inset -3px 0 3px var(--light-gray);
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.content {
+    margin-left: 260px;
+    padding: 20px;
+}
+
+.project {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 var(--light-gray);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.contact-info {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2.name {
+    text-shadow: 0 0 5px var(--dark-blue);
+}
+
+img.profile-pic {
+    border-radius: 100%;
+    width: 200px;
+}
+
+nav.main-menu > ul {
+    padding: 0;
+    list-style: none;
+}
+
+nav.main-menu > ul > li {
+    border-top: 1px solid;
+    border-color: var(--dark-blue);
+}
+
+nav.main-menu > ul > li:last-child {
+    border-bottom: 1px solid;
+    border-color: var(--dark-blue);
+}
+
+nav.main-menu > ul > li.active,
+nav.main-menu > ul > li:hover {
+    background-color: var(--dark-blue);
+}
+
+nav.main-menu > ul > li.active > a,
+nav.main-menu > ul > li:hover > a {
+    color: whitesmoke;
+}
+
+nav.main-menu > ul > li > a {
+    text-decoration: none;
+    width: 100%;
+    display: block;
+    padding: 10px 20px;
+    color: var(--dark-blue);
 }

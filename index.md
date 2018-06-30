@@ -9,10 +9,13 @@ Here are some selected projects from my repositories
 
 ## Table of Contents
 
-* [Mobile Devices Kiosk](#mobile-devices-kiosk)
+* [Mobile Devices Kiosk](#mobile-devices-kiosk) 
 * [Estonian Password Generator](#estonian-password-generator)
 * [Tax-free Income Calculator](#tax-free-income-calculator)
 * [Web Based Radio Player](#web-based-radio-player)
+{:.table-of-contents}
+
+<div markdown="1" class="project">
 
 ## Mobile Devices Kiosk
 
@@ -22,6 +25,10 @@ Mobile Devices Kiosk based on Fono API using AngularJS
 
 [Live Preview](https://gregorlaan.github.io/MobileDevicesKiosk "Web Based Kiosk for Mobile Devices")
 
+</div>
+
+<div markdown="1" class="project">
+
 ## Estonian Password Generator
 
 Generate secured passwords using estonian words
@@ -29,6 +36,10 @@ Generate secured passwords using estonian words
 [Source Code](https://github.com/gregorlaan/EstonianPasswordGenerator "Estonian Password Generator")
 
 [Live Preview](https://gregorlaan.github.io/EstonianPasswordGenerator "Estonian Password Generator")
+
+</div>
+
+<div markdown="1" class="project">
 
 ## Tax-free Income Calculator
 
@@ -38,6 +49,10 @@ Estonian Tax-free Income Calculator 2018
 
 [Live Preview](https://gregorlaan.github.io/Tax-free-Income-Calculator/ "Estonian Tax-free Income Calculator")
 
+</div>
+
+<div markdown="1" class="project">
+
 ## Web Based Radio Player
 
 Simple Estonian Web Based Radio Player using VueJS
@@ -45,3 +60,5 @@ Simple Estonian Web Based Radio Player using VueJS
 [Source Code](https://github.com/gregorlaan/WebBasedRadioPlayer "Estonian Web Based Radio Player")
 
 [Live Preview](https://gregorlaan.github.io/WebBasedRadioPlayer "Estonian Web Based Radio Player")
+
+</div>
