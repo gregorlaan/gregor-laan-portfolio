@@ -1,0 +1,21 @@
+<div class="projects">
+
+    {% for post in site.posts %}
+
+    <div id="{{ post.slug }}" class="project">
+
+        <a href="{{ post.url }}">
+            <h2 id="{{ post.title}}">{{ post.title }}</h2>
+        </a>
+
+        {{ post.desc }}
+
+        <div class="buttons">
+            <a class="source-code" title="{{ post.link-title }}" href="{{ post.source-code }}">Source Code</a>
+            <a class="live-preview" title="{{ post.link-title }}" href="{{ post.live-preview }}">Live Preview</a>
+        </div>
+    </div>
+
+    {% endfor %}
+
+</div>
