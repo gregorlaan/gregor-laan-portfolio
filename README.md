@@ -1,6 +1,8 @@
 # The portfolio of Gregor Laan
 
-Here are some selected projects from my repositories 
+Here are some selected projects from my repositories
+
+[Portfolio Page](https://gregorlaan.github.io "The portfolio of Gregor Laan")
 
 ## Table of Contents
 
