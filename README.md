@@ -5,9 +5,11 @@ Here are some selected projects from my repositories
 ## Table of Contents
 
 * [Mobile Devices Kiosk](#mobile-devices-kiosk)
+* [Web Based Radio Player](#web-based-radio-player)
+* [Vehicle Management System](#vehicle-management-system)
+* [Erply Frontend Challenge](#erply-frontend-challenge)
 * [Estonian Password Generator](#estonian-password-generator)
 * [Tax-free Income Calculator](#tax-free-income-calculator)
-* [Web Based Radio Player](#web-based-radio-player)
 
 ## Mobile Devices Kiosk
 
@@ -32,6 +34,14 @@ Simple SPA based vehicle management system using AngularJS
 [Source Code](https://github.com/gregorlaan/VehicleManagmentSystem "Vehicle Management System")
 
 [Live Preview](https://gregorlaan.github.io/VehicleManagmentSystem/#!/ "Vehicle Management System")
+
+## Erply Frontend Challenge
+
+Simple e-shop SPA based on Bootstrap 4 and VueJS
+
+[Source Code](https://github.com/gregorlaan/ErplyFrontendChallenge "Simple e-shop SPA")
+
+[Live Preview](https://gregorlaan.github.io/ErplyFrontendChallenge "Simple e-shop SPA")
 
 ## Estonian Password Generator
 
