@@ -18,16 +18,16 @@ a {
     text-decoration: none;
 }
 
-ul.table-of-contents {
+ul {
     list-style: none;
     padding: 0 0 0 10px;
 }
 
-ul.table-of-contents > li {
+ul > li {
     line-height: 1.5;
 }
 
-ul.table-of-contents > li:before {
+ul > li:before {
     display: inline-block;
     content: "";
     height: 10px;
@@ -103,6 +103,10 @@ img.profile-pic {
 nav.main-menu > ul {
     padding: 0;
     list-style: none;
+}
+
+nav.main-menu > ul > li:before {
+    display: none;
 }
 
 nav.main-menu > ul > li {
