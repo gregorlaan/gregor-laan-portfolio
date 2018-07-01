@@ -17,6 +17,22 @@ Mobile Devices Kiosk based on Fono API using AngularJS
 
 [Live Preview](https://gregorlaan.github.io/MobileDevicesKiosk "Web Based Kiosk for Mobile Devices")
 
+## Web Based Radio Player
+
+Simple Estonian Web Based Radio Player using VueJS
+
+[Source Code](https://github.com/gregorlaan/WebBasedRadioPlayer "Estonian Web Based Radio Player")
+
+[Live Preview](https://gregorlaan.github.io/WebBasedRadioPlayer "Estonian Web Based Radio Player")
+
+## Vehicle Management System
+
+Simple SPA based vehicle management system using AngularJS
+
+[Source Code](https://github.com/gregorlaan/VehicleManagmentSystem "Vehicle Management System")
+
+[Live Preview](https://gregorlaan.github.io/VehicleManagmentSystem/#!/ "Vehicle Management System")
+
 ## Estonian Password Generator
 
 Generate secured passwords using estonian words
@@ -32,11 +48,3 @@ Estonian Tax-free Income Calculator 2018
 [Source Code](https://github.com/gregorlaan/Tax-free-Income-Calculator "Estonian Tax-free Income Calculator")
 
 [Live Preview](https://gregorlaan.github.io/Tax-free-Income-Calculator/ "Estonian Tax-free Income Calculator")
-
-## Web Based Radio Player
-
-Simple Estonian Web Based Radio Player using VueJS
-
-[Source Code](https://github.com/gregorlaan/WebBasedRadioPlayer "Estonian Web Based Radio Player")
-
-[Live Preview](https://gregorlaan.github.io/WebBasedRadioPlayer "Estonian Web Based Radio Player")
